@@ -1,2 +1,2 @@
 @echo off
-shutdown -s -t ì30î -c "Windows Shutting down in 30 seconds"
+shutdown -s -t ‚Äú30‚Äù -c "Windows Shutting down in 30 seconds"
